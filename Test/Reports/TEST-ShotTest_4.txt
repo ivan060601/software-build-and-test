@@ -1,0 +1,22 @@
+Testsuite: ShotTest_4
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec
+
+Testcase: execute[0] took 0 sec
+Testcase: execute[1] took 0 sec
+Testcase: execute[2] took 0 sec
+Testcase: execute[3] took 0 sec
+Testcase: execute[4] took 0 sec
+Testcase: execute[5] took 0 sec
+Testcase: execute[6] took 0 sec
+Testcase: execute[7] took 0 sec
+Testcase: execute[8] took 0 sec
+Testcase: execute[9] took 0 sec
+Testcase: execute[10] took 0 sec
+Testcase: execute[11] took 0 sec
+Testcase: execute[12] took 0 sec
+Testcase: execute[13] took 0 sec
+Testcase: execute[14] took 0 sec
+Testcase: execute[15] took 0 sec
+Testcase: execute[16] took 0 sec
+Testcase: execute[17] took 0 sec
+Testcase: execute[18] took 0 sec
