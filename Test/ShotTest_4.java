@@ -56,6 +56,6 @@ public class ShotTest_4 {
         Shot shot = new Shot();
         shot.setArgs(coords);
         shot.execute();
-        assertEquals(result + "\r\n", output.toString());
+        assertEquals(result + "\n", output.toString());
     }
 }
