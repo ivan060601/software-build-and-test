@@ -73,6 +73,6 @@
 
     <!-- scp-->
     <target name="scp" depends="build">
-        <scp file="/home/ivan/itmoProjects/software-build-and-test/build/darts.jar" todir="${login}@se.ifmo.ru:/home/${login}/" port="2222" password="${password}"/>
+        <scp file="/home/ivan/itmoProjects/software-build-and-test/build/darts.jar" todir="${login}@helios.se.ifmo.ru:/home/${login}/" port="2222" password="${password}"/>
     </target>
 </project>
