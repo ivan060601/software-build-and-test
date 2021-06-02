@@ -9,6 +9,10 @@ public class CommandReader {
     private AbstractCommand[] abstractCommands = new AbstractCommand[]{new Exit(), new Help(), new History(), new Shot()};
     History history = (History) abstractCommands[2];
 
+    public CommandReader(){
+
+    }
+
     public AbstractCommand getCommand(){
         String line = null;
         try {

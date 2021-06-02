@@ -41,7 +41,7 @@
         <jar destfile="${build}/${ant.project.name}.jar" basedir="${classes}">
             <manifest>
                 <attribute name="Main-Class" value="Communication.Terminal"/>
-    <attribute name="Version" value="${version}"/>
+                <attribute name="Version" value="${version}"/>
             </manifest>
         </jar>
     </target>
